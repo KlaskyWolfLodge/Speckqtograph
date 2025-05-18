@@ -5,3 +5,5 @@ Diego: Poop: add poop: Two, add more poop: and final, add poop.
 MAIN2: TTF
 
 From: FontForge
+
+Upgrades: Go to Speckqtograph, then woff2, then, ariel, and see what happens.
