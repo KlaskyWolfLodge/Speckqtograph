@@ -1,0 +1,3 @@
+Speckqtograph and TTFAutoHint
+
+TTFAutoHint disabled because of Roman.
